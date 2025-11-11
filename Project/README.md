@@ -1,12 +1,60 @@
-# React + Vite
+<h1 align="center"><img align="center" src="https://github.com/DHANUSH-MURUGESAN/Spark/blob/main/Project/src/assets/sparkwhite.png" width=50px height=50px alt="Spark Logo" /> Spark Servicing</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <em>Empowering digital servicing with elegance, motion, and innovation.</em>
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-18.0+-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-Animations-FC00FF?logo=framer&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React%20Icons-UI%20Enhancement-E91E63?style=for-the-badge" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Spark Servicing** is a sleek, responsive frontend web application inspired by **[Haven Servicing](https://havenservicing.com/)**.  
+Built using **React.js**, it delivers a **premium digital servicing experience** with **modern UI design**, **smooth animations**, and **interactive layouts**.
+
+This project reflects high-end design thinking — balancing **aesthetics, performance, and scalability** to create a delightful user experience.
+
+---
+
+## 🚀 Features
+
+✅ Elegant & Responsive UI — adapts beautifully across all devices  
+✅ Framer Motion animations for premium transitions  
+✅ React Icons for rich, clean visual appeal  
+✅ Reusable component-based architecture  
+✅ Modern Tailwind CSS styling for rapid design  
+✅ Optimized performance & accessibility  
+
+---
+
+## 🧩 Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| Frontend | React.js |
+| Animation | Framer Motion |
+| Icons | React Icons |
+| Styling | Tailwind CSS |
+| Deployment | Vercel / Netlify (Recommended) |
+
+---
+
+## 💡 Inspiration
+
+Inspired by Haven Servicing, reimagined with fluid motion, luxury visuals,
+and a handcrafted frontend experience built entirely with React.js and Framer Motion.
+
+---
+
+## 🧑‍💻 Author
+
+Developed by Dhanush.M
+
+💼 MERN Stack Developer </br>
+📧 Reach me at: <a href="https://www.linkedin.com/in/dhanush-murugesan-stm/">LinkedIn</a>
